@@ -1,0 +1,11 @@
+# Ignore everything in the repo
+/*
+
+# But keep this .gitignore so it can be committed
+!/.gitignore
+
+# Leave only the script tracked
+!/internet_logger.py
+
+# Keep README
+!/README.md
